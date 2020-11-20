@@ -29,7 +29,7 @@ body {
     stroke: #30d6ec
 }
 
-/* .container .icon.heart path {
+.container .icon.heart path {
     stroke-dasharray: 1575;
     stroke-dashoffset: 1575;
 }
@@ -114,4 +114,4 @@ body {
         stroke-dashoffset: 3100;
         fill: #30d6ec;
     }
-} */
+}
