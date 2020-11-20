@@ -9,7 +9,7 @@ Inspired by : https://www.youtube.com/watch?v=0cYdA4MBwhk
 ## Visit Website
 This project use vercel.com.
 
-Go to https://SVG-stroke-animation.baptistelechat.vercel.app/ to view the project.
+Go to https://svg-stroke-animation.baptistelechat.vercel.app/ to view the project.
 
 <img src="./res/Screenshot.png">
 
